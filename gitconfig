@@ -1,2 +1,5 @@
 [core]
 	excludesfile = ~/.gitignore
+[user]
+	name = adieu
+	email = adieu@adieu.me
